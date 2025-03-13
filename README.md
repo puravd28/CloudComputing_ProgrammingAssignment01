@@ -1,6 +1,6 @@
 # CloudComputing_ProgrammingAssignment01
 
-Github Repository Link: "https://github.com/puravd28/CloudComputing_ProgrammingAssignment01/tree/main"
+GitHub Repository Link: "https://github.com/puravd28/CloudComputing_ProgrammingAssignment01/tree/main"
 
 Steps to perform and complete the assignment 
 
